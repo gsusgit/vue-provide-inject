@@ -4,9 +4,3 @@
     <p>No element was selected...</p>
   </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
